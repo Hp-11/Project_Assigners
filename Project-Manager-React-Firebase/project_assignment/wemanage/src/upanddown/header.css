@@ -1,0 +1,27 @@
+.header{
+    background-color: rgb(9, 240, 151);
+    color: rgb(0, 0, 0);
+    height: 50px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+.logo{
+    float: left;
+    margin-left: 10%;
+    margin-top: 10px;
+}
+.navList{
+    list-style-type: none;
+    display: inline;
+}
+.navList li{
+    width: 10%;
+    height: 30px;
+    padding: 10px;
+    float: right;
+    margin:0 5% 0 0%;
+}
+.navList li:hover{
+    background-color: aqua;
+}

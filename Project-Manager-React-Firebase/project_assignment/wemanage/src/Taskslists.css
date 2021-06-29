@@ -1,0 +1,12 @@
+.Task_listed {
+    margin-top: 100px;
+}
+.Task_listed p{
+    position: relative;
+    left: -30%;
+    margin: 5px;
+}
+.Task_listed ul{
+    list-style-type: none;
+    display: inline;
+}

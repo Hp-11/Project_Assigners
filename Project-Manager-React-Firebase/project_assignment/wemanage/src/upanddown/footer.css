@@ -1,0 +1,9 @@
+.foot{
+    display: flex;
+    justify-content: center;
+    bottom: 0px;
+    background-color: black;
+    color: gainsboro;
+    height: 50px;
+    width: 100%;
+}

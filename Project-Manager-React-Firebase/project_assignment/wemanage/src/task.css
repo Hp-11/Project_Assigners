@@ -1,0 +1,14 @@
+.left{
+    text-align: left;
+    margin-left: 30%;
+    width: 40%;
+}
+.btn-print{
+    position: relative;
+    right: -20%;
+
+}
+.btn-print p{
+    font-weight: bold;
+    color: darkcyan;
+}
