@@ -14,6 +14,7 @@ function App() {
   const prevent=(event)=>{
     event.preventDefault();
   }
+  const [unames,setunames] = useState(['Harsh','Mayank']);
   const [mname,setmname] = useState('Harsh');
 
   // useEffect(()=> {

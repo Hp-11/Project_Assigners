@@ -8,5 +8,8 @@
 }
 .Task_listed ul{
     list-style-type: none;
+}
+.Task_listed ul li{
     display: inline;
+    margin-left: 10%;
 }
